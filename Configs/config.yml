@@ -5,16 +5,16 @@
 # ======================================================================================
 # NOTE: BOT_TOKEN & MONGO CLIENT DETAILS ARE STORED IN THE .env FILE!
 # The prefix for the bots commands
-Prefix: "!"
+Prefix: "+"
 
 # Set what the bot is currently playing
-bot_status_text: "[!] | Modern Levels"
+bot_status_text: "[+] | Modern Levels"
 
 # IDLE, DND, ONLINE, OFFLINE
 bot_activity: online
 
 # The ID of the user who owns this bot (In most cases, that'll be you)
-bot_owner_id: 512760269764820993
+bot_owner_id: 338418945620967434
 
 # Disable / Enable the bot from sending the private message when joining a guild (True/False)
 private_message: True
